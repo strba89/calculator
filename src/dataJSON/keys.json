@@ -1,0 +1,70 @@
+[
+  {
+    "ID": "clear",
+    "value": "AC"
+  },
+  {
+    "ID": "divide",
+    "value": "/"
+  },
+  {
+    "ID": "multiply",
+    "value": "x"
+  },
+  {
+    "ID": "seven",
+    "value": 7
+  },
+  {
+    "ID": "eight",
+    "value": 8
+  },
+  {
+    "ID": "nine",
+    "value": 9
+  },
+  {
+    "ID": "subtract",
+    "value": "-"
+  },
+  {
+    "ID": "four",
+    "value": 4
+  },
+  {
+    "ID": "five",
+    "value": 5
+  },
+  {
+    "ID": "six",
+    "value": 6
+  },
+  {
+    "ID": "add",
+    "value": "+"
+  },
+  {
+    "ID": "one",
+    "value": 1
+  },
+  {
+    "ID": "two",
+    "value": 2
+  },
+  {
+    "ID": "three",
+    "value": 3
+  },
+  {
+    "ID": "zero",
+    "value": 0
+  },
+  {
+    "ID": "decimal",
+    "value": "."
+  },
+  {
+    "ID": "equals",
+    "value": "="
+  }
+]
